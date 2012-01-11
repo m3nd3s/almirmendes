@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Eu duvido!
+wordpress_id: 164
+wordpress_url: http://www.almirmendes.net/?p=164
+date: 2009-12-10 14:50:36 -02:00
+---
+<p style="text-align: center;"><img class="aligncenter" title="Larry the Cow" src="http://www.valibuk.net/images/larry.png" alt="" width="120" height="126" /></p>
+<p style="text-align: left;">Senhores, este é um post apenas incentivar uma amiga, que me garantiu que irá instalar o Gentoo Linux até a próxima semana no netboot dela. Então eu queria dizer: <em><strong>Eu duvido!</strong></em></p>
+Essa é pra você Rapha.
+
+<em>Ps.: Não que eu tenha algo contra o Gentoo, está é apenas uma forma que encontrei para dar um apoio moral a ela! E a vaquinha acima é o mascote da distribuição, se ficou curioso, olhe em<a href="http://www.gentoo.org/main/en/about.xml" target="_blank"> </a></em><a href="http://www.gentoo.org/main/en/about.xml" target="_blank">http://www.gentoo.org/main/en/about.xml</a>

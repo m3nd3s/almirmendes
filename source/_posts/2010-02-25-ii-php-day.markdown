@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: II PHP Day
+wordpress_id: 214
+wordpress_url: http://www.almirmendes.net/?p=214
+date: 2010-02-25 21:17:04 -03:00
+---
+<a href="http://media.giantbomb.com/uploads/0/6393/322564-baby_mario_super.jpg"></a>
+
+<img class="alignright" title="PHP Day" src="http://media.giantbomb.com/uploads/0/6393/322564-baby_mario_super.jpg" alt="" width="136" height="168" />Amigos! É com grande alegria que divulgo aqui o II PHP Day. Nessa segunda edição teremos uma grande novidade: uma mesa redonda (na verdade nem sei se vai ter mesa, quanto mais redonda.. rs) que estamos nomeando de "Brainstorm".
+
+Teremos no total 4 palestras sendo elas:
+<ul>
+	<li><em>Palestra 1:</em> Processamento em fila, assíncrono e/ou paralelo com Gearman e PHP</li>
+	<li><em>Palestra 2:</em><strong> </strong>Reconhecimento de padrões funcionais em JQuery</li>
+	<li><em>Palestra 3: </em>Otimização e Escalabilidade</li>
+	<li><em>Palestra 4:</em><strong> </strong>10+ coisas que odeio em PHP</li>
+</ul>
+E a mesa redonda/brainstorm:
+<ul>
+	<li><em>Brainstorm:</em> Desenvolvimento usando frameworks e hard code</li>
+</ul>
+Os palestrantes são membros da comunidade PHP-ES, tudo gente boa (inclusive eu estarei lá palestrando) ;)
+
+O evento ocorre no dia <strong>27/03/2010</strong> nas dependências da <strong><a href="http://www.faesa.br" target="_self">FAESA</a></strong>. Mais informações em <a href="http://www.phpes.org/eventos/ii-php-day/" target="_blank">http://www.phpes.org/eventos/ii-php-day/</a>
+
+Ps.: O que tem haver o mário alí? A resposta é: nada, deu vontade, apenas isso ;)

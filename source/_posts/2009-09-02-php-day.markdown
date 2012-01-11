@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: PHP Day
+wordpress_id: 140
+wordpress_url: http://www.almirmendes.net/?p=140
+date: 2009-09-02 21:16:43 -03:00
+---
+O PHP Day surge como mais uma iniciativa da comunidade PHP-ES para levar essa linguagem ao público, compartilhando conhecimento experiências por profissionais da área à todas as pessoas que estiverem interessadas.
+
+Qualquer pessoa que esteja interessada no evento pode participar: estudantes de cursos de tecnologia, programadores (em PHP ou não), gerentes de TI, etc. Qualquer um que esteja interessado pode participar. Só é preciso ter atenção aos pré-requisitos para participar de algum workshop ou palestra.
+
+O evento acontece no sábado dia 12/09/2008 na UVV - Centro Universitário de Vila Velha. Atenção, o evento acontecerá apenas na parte da manhã e é necessário fazer sua inscrição, que aliás, é totalmente <em><strong>gratuita</strong></em>!
+
+Mais informações em: http://www.phpes.org/eventos/php-day/

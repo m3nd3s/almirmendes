@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: My twitter
+wordpress_id: 59
+wordpress_url: http://www.almirmendes.net/2009/03/12/twitter/
+date: 2009-03-12 11:25:17 -03:00
+---
+Olá amigos, só queria disponibilizar meu twitter para quem quiser me "seguir".
+<a title="My twitter" href="http://twitter.com/m3nd3s" target="_blank">http://twitter.com/m3nd3s</a>

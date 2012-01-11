@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Wireless no Acer 5050-3284
+wordpress_id: 54
+wordpress_url: http://www.almirmendes.net/?p=54
+date: 2009-03-11 19:23:26 -03:00
+---
+Esse processo é rápido. Se você tem um notebook Acer 5050-3284 então você provavelmente terá uma placa wireless Atheros AR5007EG, algumas vezes detectadas (erroneamente) como AR5006EG.
+
+Se você usar o lspci terá algo como:
+<pre>Ethernet controller: Atheros Communications Inc. AR242x 802.11abg Wireless PCI Express Adapter (rev 01)</pre>
+Se esse é seu caso, não adianta utilizar o módulo que vem incluso no kernel porque ele não irá funcionar, a solução é utilizar o driver disponível pelo Madwifi.
+
+Então vamos a obra, baixe o pacote tar.gz mais atual em: <a href="http://snapshots.madwifi-project.org/madwifi-hal-0.10.5.6/" target="_blank">http://snapshots.madwifi-project.org/madwifi-hal-0.10.5.6/</a>, depois de baixá-lo, descompacte o arquivo, entre na pasta gerada e rode os comandos (como root):
+<pre>make &amp;&amp; make install</pre>
+Pronto, driver instalado. Agora rode o comando abaixo (root) para carregar o módulo e começar a utilizar sua placa:
+<pre>modprobe ath_pci</pre>
+Após isso, eu recomendo que você utilize o guia do usuário na página <a href="http://madwifi-project.org/wiki/UserDocs/FirstTimeHowTo" target="_blank">http://madwifi-project.org/wiki/UserDocs/FirstTimeHowTo</a> para obter mais informações e saber como utilizar sua placa no linux.
+
+;)

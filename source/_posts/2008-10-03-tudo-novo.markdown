@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Tudo Novo!
+wordpress_id: 3
+wordpress_url: http://www.almirmendes.net/blog/?p=3
+date: 2008-10-03 21:28:58 -03:00
+---
+Olá amigos!
+
+Como puderam perceber, tudo está novo no meu blog, inclusive o nome. Aproveitei uma "mãozinha" de algum cidadão com muito tempo sobrando para dar uma atualizada em meu blog, e inclusive mudar o visual.
+
+Agora peço desculpas aos meus visitantes por deixá-los sem informações e principalmente sem o conteúdo que tinha aqui, mas prometo que irei resgatá-los nos backups, só não o fiz ainda porque estou aguardando um retorno de um amigo, que é quem gerencia o servidor onde está hospedado meu blog.

@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: ATI Catalyst 8.11
+wordpress_id: 19
+wordpress_url: http://www.almirmendes.net/?p=19
+date: 2008-11-25 11:12:00 -02:00
+---
+Mantendo o padrão, só para avisar que também foi disponibilizado o driver da ATI para Linux versão 8.11. O link continua o mesmo: http://ati.amd.com/support/drivers/linux64/linux64-radeon.html
+
+Obs.: Eu irei escrever um artigo completo sobre como configurar o Acer 5050 no Linux. Estou meio sem tempo por causa da faculdade, mas em breve disponibilizarei. Esta é a última semana de aulas. ;)
+Já vai uma dica antecipada, caso você esteja tentando configurar o compiz-fusion, e notou que eventualmente acontecem algumas congeladas, adicione o parâmetro para o kernel: "nopat". No lilo vc adiciona na linha append do /etc/lilo.conf.
+Em meu próximo post explicarei o porquê.

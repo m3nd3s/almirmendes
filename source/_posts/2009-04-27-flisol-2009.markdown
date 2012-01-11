@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: FLISOL 2009
+wordpress_id: 80
+wordpress_url: http://www.almirmendes.net/?p=80
+date: 2009-04-27 11:43:04 -03:00
+---
+Neste último sábado, dia 25/04/2009, aconteceu em toda a América Latina o FLISOL - Festival Latino Americano de Instalação de Software Livre. Um grande evento de divulgação, instalação, informação e contribuição com o Software Livre.
+
+Aqui no Espírito Santo, mais precisamente em Vitória, capital, o evento foi organizado por João Fernando - Iniciativa Espírito Livre, e por Almir Mendes (eu) - Membro do PHP-ES e Linux-ES, e também nossos palestrantes: Guilherme, Jean(Índio), Diego e também o Lázaro.
+
+Este ano o evento foi realizado com o apoio da FAESA - Faculdades Integradas Espirito Santenses, que nos cedeu o local e nos apoiou durante todo o evento. Em especial agradecemos a coordenação do curso de Ciências da Computação e Sistemas de Informação, representado pelo Prof. Rober, que fez todas as reservas necessárias para a realização do evento e também pelo amigo Josué - Equipe Operacional da FAESA - que com nos ajudou em tudo que necessitamos na realização do evento, inclusive os imprevistos.
+
+Mais detalhes sobre o evento, fotos, download das palestras, etc. você pode ver em <a title="FLISOL 2009" href="http://flisol.espiritolivre.org" target="_blank">http://flisol.espiritolivre.org</a>.
+<p style="text-align: center;"><img class="aligncenter" title="Distros GNU/Linux" src="http://img.efetividade.net/img/anime-linux-distros.png" alt="" width="320" height="247" /></p>
+
+Aproveito para deixar minha palestra para download, fiquem a vontade para baixar e usar, e também criticar o trabalho, adoraria receber feedbacks de minha palestra em especial, mas também se for possível comente sobre o evento. (Utilize o comentário desse Post)
+
+Segue o link do PDF para download: <a title="Palestra sobre distribuições GNU/Linux" href="http://www.almirmendes.net/downloads/Linux_pra_mim_Linux_pra_voce.pdf" target="_self">Linux pra mim, Linux pra você!</a>

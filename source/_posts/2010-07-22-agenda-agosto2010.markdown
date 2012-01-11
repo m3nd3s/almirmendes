@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: Agenda agosto/2010
+wordpress_id: 353
+wordpress_url: http://www.almirmendes.net/?p=353
+date: 2010-07-22 23:13:01 -03:00
+---
+É lá vamos nós! (by <a href="http://animemix.files.wordpress.com/2008/11/os-impossiveis-1.jpg">Os impossíveis</a>)
+
+Agosto será um mês agitado. Dois eventos, duas palestras para apresentar e como se não bastasse, estou na organização de ambos os eventos.
+
+No dia 19 de Agosto apresentarei uma palestra sobre como funciona e como criar um firewall pessoal em um sistema GNU/Linux com a ferramenta Iptables. Vai ser um desafio falar de Iptables e tentar ser simples. Se precisar de mais informações acesse o site: <a href="http://www.tux-es.org/liberdadeinterativa/">http://www.tux-es.org/liberdadeinterativa/.</a> Abaixo a grade do evento que também conta com a presença do amigo @franciscosouza e @ra_pha:<a href="http://www.tux-es.org/liberdadeinterativa/"></a>
+<ul>
+	<li><strong>19h00:</strong> Bacula – O backup da meia-noite (<a title="Rapha" rel="nofollow" href="http://www.rapha.net.br/" target="_blank">Raphaela M. Rocha</a>);</li>
+	<li><strong>19h50:</strong> Django: O framework web para perfeccionistas  com prazos (<a title="Francisco Souza" rel="nofollow" href="http://twitter.com/franciscosouza" target="_blank">Francisco Souza</a>);</li>
+	<li><strong>20h40:</strong> Iptables: Entendendo como fazer um firewall  pessoal (<a title="Almir M3nd3s" rel="nofollow" href="../" target="_blank">Almir M3nd3s</a>)</li>
+</ul>
+II Workshop PHP-ES - Correria frenética (by @leohackin) para preparar o evento, reserva de local, procura por palestrantes, motivar o grupo, fazer inscrição do povo, etc.. etc.. E ainda por cima dar suporte aos palestrantes e também preparar minha palestra. Nessa segunda versão do WS PHP apresentarei uma palestra sobre PDO, ela que provavelmente se tornará o padrão para comunicação a SGBDs no PHP.
+
+O Workshop PHP-ES acontece no dia 28 de Agosto de 2010, no auditório da UVV de 8:30h até as 17:00h, para mais informações acesse <a href="http://www.phpes.org/">http://www.phpes.org/</a> ou também siga o twitter <a href="http://www.twitter.com/phpes">@phpes</a>. Abaixo a grade do WS PHP-ES:
+<ul>
+	<li>08:30h – 09:00h – Credenciamento / Coffee Break</li>
+	<li>09:00h – 09:10h – Abertura</li>
+	<li>09:10h – 10:00h – <a href="http://www.phpes.org/ii-workshop-php-es/#palestra1">PHPZeiro:  Adote um Framework (Léo “Hackin”)</a></li>
+	<li>10:10h – 11:00h – <a href="http://www.phpes.org/ii-workshop-php-es/#palestra2">CodeIgniter:  turbinando a produtividade com MVC (André Tagliati / Francisco Souza)</a></li>
+	<li>11:10h – 12:00h – <a href="http://www.phpes.org/ii-workshop-php-es/#palestra3">MySQL:  Técnicas simples e eficazes para tirar o máximo do seu servidor Mysql  (Marcelo Raposo)</a></li>
+	<li>12:00h – 14:00h – Almoço</li>
+	<li>14:00h – 15:00h – <a href="http://www.phpes.org/ii-workshop-php-es/#palestra4">PHP Data  Object – Interface única de comunicação com SGDBs (Almir “M3nd3s”)</a></li>
+	<li>15:10h – 16:00h – <a href="http://www.phpes.org/ii-workshop-php-es/#palestra5">Moodle:  fazendo EAD de qualidade com PHP (Lucas Coradini)</a></li>
+	<li>16:10h – 17:00h – <a href="http://www.phpes.org/ii-workshop-php-es/#palestra6">Aprendendo a  começar um projeto com SCRUM (Time da Giran)</a></li>
+	<li>17:00h – Fechamento</li>
+</ul>

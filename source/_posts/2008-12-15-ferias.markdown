@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "F\xC3\xA9rias!"
+wordpress_id: 23
+wordpress_url: http://www.almirmendes.net/?p=23
+date: 2008-12-15 13:12:37 -02:00
+---
+Finalmente férias!!!
+
+Pois é amigos, depois de muitas guerras, batalhas, mais um período longo de caminhada foi vencido. Embora com algumas escoriações, eu finalmente consegui chegar às férias!
+
+Peço desculpa as meus leitores pela ausência de posts nesses últimos meses, mas agora volto ao normal e vou começar com meu post sobre como configurar o o GNU/Linux para usar no Acer Aspire 5050-3284.
+
+Aguarde que ainda essa semana tem post novo. ;)

@@ -1,0 +1,38 @@
+--- 
+layout: post
+title: Eventos 2011/2
+wordpress_id: 546
+wordpress_url: http://www.almirmendes.com/?p=546
+date: 2011-08-21 16:49:37 -03:00
+---
+Para que você gosta de acompanhar os eventos de informática aqui da Grande Vitória - Espírito Santo:
+<h3>1º Fórum Capixaba de Informatica - FOCAI</h3>
+<h3><span class="Apple-style-span" style="font-size: 13px; line-height: 18px;">Em setembro o SENAI será a sede do Fórum Capixaba de Informática, FOCAI 2011. São esperadas cerca de 800 pessoas entre estudantes, profissionais e especialistas da área. O evento será realizado nos dias 02 e 03 de setembro no SENAI - Beira Mar.</span></h3>
+O FOCAI é um evento que abrirá espaço para discussões e reflexões sobre o mercado capixaba, novas tecnologias, além de promover a integração e valorização dos profissionais e empresas do estado do Espírito Santo.
+
+Constam na programação do evento: palestras, mesa-redonda e minicursos sobre temas ligados às tecnologias da informação e comunicação, segurança, infra-estrutura, sistemas livres e proprietários, etc.
+
+Mais detalhes sobre a localização, programação do evento e inscrições podem ser obtidas no site do evento: <a href="http://www.focai.com.br" target="_blank">http://www.focai.com.br</a>
+
+Eu terei o privilégio de apresentar duas palestras: Do PHP ao Rails e outra sobre Arduino. Agente se vê por lá.
+<h3>Liberdade Interativa</h3>
+<h3><span class="Apple-style-span" style="font-size: 13px; line-height: 18px;">Evento organizado pela comunidade Tux-ES. Como o próprio nome diz, esse evento foi criado para manter a Interatividade entre a comunidade de Software Livre do Espírito Santo, onde todos poderão trocar idéias, compartilhar conhecimentos e, por que não, fazer um Networking.</span></h3>
+Baseado nos eventos “Day”, o Liberdade Interativa acontece em um sábado a cada dois meses, contando, atualmente, com dois Workshops (ou Palestras) por dia.
+
+O próximo LI será realizado no dia 24 de setembro, ainda sem local definido mas muito provavelmente será realizado na Faculdade Salesiana. Abaixo os tópicos que serão abordados nesta próxima edição:
+<ul>
+	<li><span class="Apple-style-span" style="line-height: 18px;">Desenvolvimento Mobile com Ruby - Rodrigo Martins </span></li>
+	<li><span class="Apple-style-span" style="line-height: normal;">SEO - Daniel Marcos</span></li>
+	<li><span class="Apple-style-span" style="line-height: 18px;">Hands On do Gentoo - Claudio / Spidey</span></li>
+</ul>
+<div><span class="Apple-style-span" style="line-height: 18px;">Fique ligado em <a href="http://www.tux-es.org/liberdadeinterativa/">http://www.tux-es.org/liberdadeinterativa/</a> para obter mais informações</span></div>
+<h3><span class="Apple-style-span" style="font-size: 20px; line-height: 18px;">Rock'n Rails</span></h3>
+<a href="http://www.almirmendes.com/2011/08/21/eventos-20112/logo_rock_and_rails/" rel="attachment wp-att-549"><img class="size-medium wp-image-549 alignright" style="margin: 5px;" title="logo_rock_and_rails" src="http://www.almirmendes.com/wp-content/uploads/2011/08/logo_rock_and_rails-300x111.png" alt="" width="300" height="111" /></a>
+<div>
+<p id="internal-source-marker_0.6736510957125574" dir="ltr">O Rock and Rails será um evento dedicado ao desenvolvimento em linguagem Ruby e a framework Ruby on Rails, cuja aceitação e adoção nas empresas está em franco crescimento.</p>
+<p dir="ltr">Este evento é inédito no estado do Espírito Santo e tem como objetivos principais disseminar o conhecimento da linguagem/framework e obter uma ideia da quantidade de interessados/profissionais/entusiastas não apenas da linguagem mas do desenvolvimento para internet.</p>
+<p dir="ltr">O evento está sendo organizado pela equipe da <a title="http://www.giran.com.br" href="http://www.giran.com.br/" target="_blank">Giran Ecommerce Solutions</a> e não terá fins lucrativos: todos os recursos obtidos junto aos parceiros, patrocinadores e incrições será revertido para cobertura do evento e compra de brindes para sorteio ao final do evento.</p>
+<p dir="ltr">A grade ainda está em planejamento, entretanto já temos dia, local e horário: 01 de outubro de 2011 (sábado) de 8:00h até 17:00h no Anfiteatro da UVV, Vila Velha.</p>
+<p dir="ltr">Fique de olho no website do evento, que será liberado ainda está semana, para obter mais informações bem como sua inscrição:<a href="http://www.rockandrails.com.br" target="_blank"> http://www.rockandrails.com.br</a></p>
+
+</div>
