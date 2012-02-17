@@ -4,6 +4,7 @@ title: "Permita-se ser ajudado"
 date: 2012-01-24 18:41
 comments: true
 categories: 
+published: false
 ---
 
 Olá pessoal, faz muito tempo que não publico algo no blog, mas como não pode faltar, a cada virada de ano temos sempre que renovar aquela promessa de voltar a ativa com os posts no blog, participação em comunidades, etc. Enfim, de qualquer forma lá vou eu tentar fazer isto de novo. E pra começar queria compartilhar algo que já venho a muito tempo querendo escrever sobre: **Permita-se ser ajudado**
