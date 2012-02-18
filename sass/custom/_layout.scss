@@ -19,3 +19,8 @@
 //$sidebar-pad-medium: 15px;
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
+
+header[role="banner"] {
+     background-image: url(/images/blog/header_bg.png);
+     background-repeat: no-repeat;
+}
