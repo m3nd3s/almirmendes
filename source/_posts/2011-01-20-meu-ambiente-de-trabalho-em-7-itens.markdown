@@ -5,11 +5,10 @@ wordpress_id: 422
 wordpress_url: http://www.almirmendes.com/?p=422
 date: 2011-01-20 12:32:54 -02:00
 ---
+
 Inspirado pelo post do <a href="http://jeveaux.com/2011/meu-ambiente-de-trabalho-em-7-itens/">Jeveaux</a>, que por sua vez foi inspirado pelo post da <a href="http://www.loiane.com/2011/01/meu-ambiente-de-trabalho-em-7-itens/">Loiane</a>, eu resolvi postar sobre meu "ambiente" de trabalho. Na verdade é uma seleção de ferramentas que fazem parte do meu dia-a-dia como desenvolvedor. Tanto em casa (programando por hobby ou freela) como no trabalho (<a href="http://www.giran.com.br/">Giran</a>) o set de ferramentas é praticamente o mesmo.
 <h3>1. MacOS e GNU/Linux</h3>
 Há mais de 10 anos que utilizo o sistema operacional GNU/Linux. No dia 27/05/2010 eu passei a fazer parte da equipe de desenvolvedores da Giran, onde conheci outro SO bacana (ainda assim prefiro o GNU/Linux), o MacOS X. Sendo <em>unix based</em> foi fácil me localizar, o único problema foi acostumar com o teclado uma vez que já que estava acostumado a utilizar o padrão ABNT.
-
-[caption id="" align="alignleft" width="200" caption="Caneca Linux"]<a href="http://www.flickr.com/photos/duhhquagliato/4478349112/"><img style="margin: 5px 2px;" src="http://www.almirmendes.com/wp-content/images/20110120/4478349112_f8887d02c6.jpg" alt="http://www.flickr.com/photos/duhhquagliato/4478349112/" width="200" height="150" /></a>[/caption]
 
 Eventualmente costumo fazer palestras sobre software livre e sempre que falo de minha experiência como <em>Linuxer</em> a primeira coisa que falo é: <em><strong>"Eu uso GNU/Linux porque gosto e pronto!"</strong></em>. Me acostumei com o poder das ferramentas e de personalização que tenho em SOs Linux, hoje já não me vejo utilizando o Microsoft Windows para trabalhar.
 
@@ -21,7 +20,6 @@ Gosto muito do Mozilla Firefox por seu grande conjunto de addons. Concordo que �
 	<li><strong>Outros:</strong> Smart Bookmarks Bar e gTranslate;</li>
 </ul>
 <h3>3. (Mac|G)?Vim</h3>
-[caption id="" align="alignright" width="240" caption="Vim"]<a href="http://bit.ly/fAqnKT "><img class="  " title="Vim" src="http://www.almirmendes.com/wp-content/images/20110120/3526322504_cc4d8e06e6_m.jpg" alt="Vim" width="240" height="166" /></a>[/caption]
 
 Imbatível! Trabalho com desenvolvimento Web nas linguagens PHP e Ruby on Rails, eventualmente na linguagem Python. Algumas pessoas torcem o nariz quando se fala de usar o Vim (ou suas variantes) para desenvolvimento alegando que usar um editor como este é perder produtividade. Essas pessoas dizem isso porque não conhecem ou não sabem utilizar o Vim, portanto acham que ele é primitivo e ultrapassado.
 
@@ -39,7 +37,6 @@ Confesso não utilizar toda a metodologia na íntegra, mas consegui abstrair alg
 
 Também faço algo no meu Gmail que muitas pessoas passaram a esquecer quando conseguiram sua conta no Gmail: deletar mensagens que não servem para mais nada. Seguindo um dos princípios do GTD, se algo não será necessário agora e nem no futuro, nem mesmo para referência: delete-a!
 <h3>7. Rails, Python e PHP</h3>
-[caption id="" align="alignleft" width="240" caption="Python e Ruby"]<a href="http://www.flickr.com/photos/mccun934/5000045252/"><img title="Python e Ruby" src="http://www.almirmendes.com/wp-content/images/20110120/5000045252_4d8f8b1e30_m.jpg" alt="Python e Ruby" width="240" height="160" /></a>[/caption]
 
 Durante anos trabalhei <a href="http://www.php.net">PHP</a>, uma linguagem poderosíssima. Entretanto senti uma certa deficiência em alguns aspectos que me fizeram repensar o desenvolvimento e aplicações em PHP. Há alguns meses tive oportunidade de trabalhar em projetos em <a href="http://rubyonrails.org/">Ruby on Rails</a> e em <a href="http://www.python.org/">Python</a> (<a href="www.djangoproject.com/">Django</a> e <a href="http://flask.pocoo.org/">Flask</a>) e vi que essas linguagens tinham uma produtividade muito superior ao que eu estava habituado a fazer em PHP. Resumindo, passei a utilizar Rails e nos próximos meses pretendo lançar um projeto pessoal em Django (graças ao chato do <a href="http://www.franciscosouza.com.br">Francisco Souza</a> que não pára de falar em <a href="www.djangoproject.com/">Django</a>).
 

@@ -5,9 +5,10 @@ wordpress_id: 469
 wordpress_url: http://www.almirmendes.com/?p=469
 date: 2011-05-29 15:57:59 -03:00
 ---
+
 Graças a iniciativa do <a href="http://www.ceetvascocoutinho.com.br/">Centro Estadual de Educação Técnica (CEET) Vasco Coutinho</a> em criar o <a href="http://www.ceetvascocoutinho.com.br/site/index.php?option=com_content&amp;view=article&amp;id=88:ciclodepalestra&amp;catid=41:banner"><strong>Ciclo de Palestras</strong></a>, um evento do Projeto Enriquecimento Curricular (PEC), e de um camarada que, ao que me pareceu, foi fundamental para a realização do evento (o <a href="http://twitter.com/#!/marcelo18victor">Marcelo Victor</a>), e o apoio da <a href="http://www.giran.com.br/">Giran</a>, eu e meu amigo <a href="http://www.tagliati.com.br">André Tagliati</a> tivemos a honra de palestrar sobre os temas: <a href="http://www.slideshare.net/m3nd3s/palestra-do-php-ao-rails">Do PHP ao Rails</a> e <a href="http://www.slideshare.net/m3nd3s/ciclo-de-palestras-ceet-vasco-coutinho">Arduino Project</a>.
 
-[caption id="" align="aligncenter" width="250" caption="Trecho da palestra: Do PHP ao Rails"]<img title="Trecho da palestra: Do PHP ao Rails" src="http://desmond.yfrog.com/Himg618/scaled.php?tn=0&amp;server=618&amp;filename=81way.jpg&amp;xsize=640&amp;ysize=640" alt="" width="250" height="187" />[/caption]
+<img title="Trecho da palestra: Do PHP ao Rails" src="http://desmond.yfrog.com/Himg618/scaled.php?tn=0&amp;server=618&amp;filename=81way.jpg&amp;xsize=640&amp;ysize=640" alt="" width="250" height="187" />
 
 Eu já estive no CEET VC há um bom tempo, se não me falha a memória foi em um ENCASOFT (Encontro Capixaba de Software Livre) que realizamos lá, e retornar lá foi muito legal.
 
