@@ -1,10 +1,11 @@
 --- 
 layout: post
-title: "Retrô" Liberdade Interativa 2010"
+title: "'Retrô' Liberdade Interativa 2010"
 wordpress_id: 391
 wordpress_url: http://www.almirmendes.net/?p=391
 date: 2010-12-13 12:44:34 -02:00
 ---
+
 Cobrado incessantemente pelo @franciscosouza , diga-se de passagem um camaradinha muito gente boa, finalmente resolvi parar alguns minutos para criar este post.
 
 Para quem não conhece o Liberdade Interativa é um evento que tem como objetivo o compartilhamento de informação e conhecimento através de pequenos eventos, com palestras relativamente rápidas, de 30 a 40 minutos, realizadas por pessoas da própria comunidade aqui do Espírito Santo.
