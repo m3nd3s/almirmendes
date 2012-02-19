@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "\"Retr\xC3\xB4\" Liberdade Interativa 2010"
+title: "Retrô" Liberdade Interativa 2010"
 wordpress_id: 391
 wordpress_url: http://www.almirmendes.net/?p=391
 date: 2010-12-13 12:44:34 -02:00

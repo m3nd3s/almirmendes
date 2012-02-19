@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Introdu\xC3\xA7\xC3\xA3o ao PDO - PHP Data Objects"
+title: "Introdução ao PDO - PHP Data Objects"
 wordpress_id: 114
 wordpress_url: http://www.almirmendes.net/?p=114
 date: 2009-07-13 22:15:36 -03:00

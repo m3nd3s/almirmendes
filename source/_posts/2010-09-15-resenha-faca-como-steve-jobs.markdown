@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Resenha: Fa\xC3\xA7a como Steve Jobs"
+title: "Resenha: Faça como Steve Jobs"
 wordpress_id: 376
 wordpress_url: http://www.almirmendes.net/?p=376
 date: 2010-09-15 13:52:40 -03:00

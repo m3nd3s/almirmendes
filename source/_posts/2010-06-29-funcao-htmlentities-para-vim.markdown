@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Fun\xC3\xA7\xC3\xA3o HtmlEntities() para Vim"
+title: "Função HtmlEntities() para Vim"
 wordpress_id: 335
 wordpress_url: http://www.almirmendes.net/?p=335
 date: 2010-06-29 21:39:01 -03:00

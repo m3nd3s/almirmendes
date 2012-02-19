@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Super R\xC3\xA1pida: Validando sintaxe PHP no Vim"
+title: "Super Rápida: Validando sintaxe PHP no Vim"
 wordpress_id: 269
 wordpress_url: http://www.almirmendes.net/?p=269
 date: 2010-05-16 15:14:46 -03:00

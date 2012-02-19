@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "F\xC3\xA9rias!"
+title: "Férias"
 wordpress_id: 23
 wordpress_url: http://www.almirmendes.net/?p=23
 date: 2008-12-15 13:12:37 -02:00

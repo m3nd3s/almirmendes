@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Archlinux - Primeiras impress\xC3\xB5es"
+title: "Archlinux - Primeiras impressões"
 wordpress_id: 145
 wordpress_url: http://www.almirmendes.net/?p=145
 date: 2009-09-07 15:41:30 -03:00

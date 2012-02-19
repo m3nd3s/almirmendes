@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Est\xC3\xA1 chegando: 1\xC2\xBA Workshop PHP-ES"
+title: "Está chegando: I Workshop PHP-ES"
 wordpress_id: 94
 wordpress_url: http://www.almirmendes.net/?p=94
 date: 2009-05-13 21:00:18 -03:00

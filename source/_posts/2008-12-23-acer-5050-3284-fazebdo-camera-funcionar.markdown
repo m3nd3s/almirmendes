@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Acer 5050-3284 - Fazendo c\xC3\xA2mera funcionar"
+title: "Acer 5050-3284 - Fazendo câmera funcionar no linux"
 wordpress_id: 35
 wordpress_url: http://www.almirmendes.net/?p=35
 date: 2008-12-23 10:37:23 -02:00

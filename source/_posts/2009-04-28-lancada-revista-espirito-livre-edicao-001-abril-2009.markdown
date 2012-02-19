@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Lan\xC3\xA7ada Revista Esp\xC3\xADrito Livre - Edi\xC3\xA7\xC3\xA3o #001 - Abril 2009"
+title: "Lançada Revista Espírito Livre - Edição #001 - Abril 2009"
 wordpress_id: 84
 wordpress_url: http://www.almirmendes.net/2009/04/28/lancada-revista-espirito-livre-edicao-001-abril-2009/
 date: 2009-04-28 09:41:41 -03:00

@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Relato FLISOL 2010 - Vit\xC3\xB3ria/ES"
+title: "Relato FLISOL 2010 - Vitória/ES"
 wordpress_id: 250
 wordpress_url: http://www.almirmendes.net/?p=250
 date: 2010-04-27 23:02:57 -03:00

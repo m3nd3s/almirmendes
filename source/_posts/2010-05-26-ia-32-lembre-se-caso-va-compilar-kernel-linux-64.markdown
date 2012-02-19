@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "IA-32 - Lembre-se caso v\xC3\xA1 compilar kernel Linux 64"
+title: "IA-32 - Lembre-se caso vá compilar kernel Linux 64"
 wordpress_id: 297
 wordpress_url: http://www.almirmendes.net/?p=297
 date: 2010-05-26 19:47:50 -03:00

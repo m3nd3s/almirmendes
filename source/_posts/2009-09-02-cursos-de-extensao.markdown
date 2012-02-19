@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Cursos de Extens\xC3\xA3o"
+title: "Cursos de Extenssão"
 wordpress_id: 132
 wordpress_url: http://www.almirmendes.net/?p=132
 date: 2009-09-02 21:12:33 -03:00

@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Helson Moura - Fot\xC3\xB3grafo"
+title: "Helson Moura - Fotógrafo"
 wordpress_id: 65
 wordpress_url: http://www.almirmendes.net/?p=65
 date: 2009-03-13 11:39:59 -03:00
