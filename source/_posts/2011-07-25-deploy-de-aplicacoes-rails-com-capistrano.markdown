@@ -3,6 +3,7 @@ layout: post
 title: "Deploy de aplicações Rails com Capistrano"
 wordpress_id: 493
 wordpress_url: http://www.almirmendes.com/?p=493
+comments: true
 date: 2011-07-25 18:34:50 -03:00
 ---
 Me lembro do tempo que eu perdia fazendo subir minhas aplicações PHP para servidor de produção (deploy): tinha que criar o banco de dados, fazer um <em>dump</em> do banco de dados de desenvolvimento para carregar o banco de dados de produção, checar as permissões dos paths utilizados para upload, etc.
