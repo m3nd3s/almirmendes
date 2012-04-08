@@ -11,9 +11,9 @@ Neste último final de semana, dia 31 de março, eu fui para o norte do estado, 
 
 {% img center /images/li-bsf/foto-panoramica-liberdade-interativa.jpg Foto panorâmica do LI-BSF. Origem: Site Barra - www.sitebarra.com.br %}
 
-Antes de mais nada queria dizer que formos surpreendidos com a proporção que o LI tomou nesse evento, ainda não temos uma contagem oficial sobre quantas pessoas compareceram no evento, mas certamente foram mais de 500 pessoas. 
+Antes de mais nada queria dizer que formos surpreendidos com a proporção que o [LI](http://www.tux-es.org/liberdadeinterativa) tomou nesse evento, ainda não temos uma contagem oficial sobre quantas pessoas compareceram no evento, mas certamente foram mais de 500 pessoas. 
 
-Tudo começou através de um contato que o o prof. Marcelo fez com a comunidaede Tux-ES por meio da lista de discussão. Em pouco tempo conseguimos montar uma lista de palestras e palestrantes que enviamos ao prof. Marcelo que, junto com os demais organizadores/professores, decidram as palestras. A grade final contou com as palestras:
+Tudo começou através de um contato que o o prof. Marcelo fez com a comunidaede Tux-ES por meio da [lista de discussão](http://groups.google.com/group/tuxes). Em pouco tempo conseguimos montar uma lista de palestras e palestrantes que enviamos ao prof. Marcelo que, junto com os demais organizadores/professores, decidram as palestras. A grade final contou com as palestras:
 
 * [Software Livre, que histórias é essa?](http://www.slideshare.net/m3nd3s/software-livre-que-histria-essa) _(por Almir Mendes)_
 * [Distribuições Linux](http://www.joaovrmaia.com/LI-BSF/#/capa) _(por João Víctor)_
