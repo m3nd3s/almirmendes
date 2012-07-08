@@ -22,6 +22,8 @@ Como disse meu irmão certa vez: _"Tem que ter emoção!"_. Fiquei de prova fina
 
 Passei duas semanas estudando e decorando todo tipo de fórmula, degustando exercícios nos finais de semana até que nesta última quinta-feira fiz a prova. Fiz a prova, conversei com a professora e disse que aguardaria o resultado. Se eu fosse pra casa sem o resultado acho que passaria mal :). E para a minha alegria e felicidade, consegui a nota que precisava para passar `\o/`.
 
+{% img center /images/mission-complete.gif Missão cumprida %}
+
 É com muita alegria que digo: Mission Accomplished! Terminei meu curso de graduação em Ciência da Computação e devo isso a todos que torceram por mim, em especial a minha família, meu Pai e Minha mãe, de quem herdei muitas qualidades e me educaram para ser um vencedor. A minha esposa querida que sempre me deu toda força, participou dos momentos críticos e me apoiou, e cobrou, quando precisava. A todos os amigos de eventos e software livre, agora poderei me dedicar mais a esse propósito que tanto gosto. E por fim, mas de forma alguma menos importante a [ Giran ](http://www.giran.com.br), se não fosse o apoio **imensurável** dessa galera eu teria fraquejado ou mesmo desistido em algum momento, muito obrigado a todos vocês!
 
 Aos que tiverem interesse e quiserem comparecer na colação de grau, ela será realizada no dia 08 de agosto de 2012, quarta-feira, às 20h no [Clube Ítalo Brasileiro](http://www.clubeitalobrasileiro.com.br) - Ilha do Boi.
