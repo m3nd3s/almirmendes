@@ -3,7 +3,7 @@ layout: post
 title: "Mission Accomplished"
 date: 2012-07-08 12:16
 comments: true
-categories: graduacao, faculdade, curso, bacharelado
+categories: graduacao faculdade curso bacharelado
 ---
 
 Senhores, vocês devem ter percebido que faz um tempo que não tenho _blogado_ com algum tipo de periodicidade. 
