@@ -3,7 +3,7 @@ layout: post
 title: "Instalando Nginx com RVM para aplicações Rails"
 date: 2012-07-27 13:05
 comments: true
-categories: linux rvm nginx rails ruby
+categories: linux rvm nginx rails ruby deploy passenger
 published: true
 ---
 
