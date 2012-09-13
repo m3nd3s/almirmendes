@@ -16,9 +16,9 @@ Um ano se passou desde a nossa [primeira edição](http://www.flickr.com/photos/
 
 Como no ano passado o evento está sendo organizado pela equipe da [Giran Ecommerce Solutions](http://www.giran.com.br), o Rock'n Rails não tem fins lucrativos: todos os recursos obtidos junto aos parceiros, patrocinadores e incrições será revertido para cobertura do evento e compra de brindes para sorteio ao final do evento.
 
-Nossa grade de palestras está quase fechada mas já com figuras de peso confirmadas como Bruno Oliveira(@abstractj) da Red Hat e Tiago Motta da Globo.com, Ricardo Valeriano da Caelum e Maxuell Leonardo da Giran. Estamos confirmando mais gente e esperando fechar tudo nos próximos dias.
+Nossa grade de palestras está quase fechada mas já com figuras de peso confirmadas como Bruno Oliveira([@abstractj](https://twitter.com/abstractj)) da [Red Hat](http://br.redhat.com/) e [Tiago Motta](https://twitter.com/timotta) da [Globo.com](http://www.globo.com/), [Ricardo Valeriano](https://twitter.com/sr_valeriano) da [Caelum](http://www.caelum.com.br/) e [Maxuell Leonardo](https://twitter.com/maxwellleonardo) da [Giran](http://www.giran.com.br). Estamos confirmando mais gente e esperando fechar tudo nos próximos dias.
 
-Esse ano iniciamos com patrocinadores de peso: a Caelum apoiando como sempre a disseminação de conhecimento e a Casa de Código, nova editora de livros feitos por programadores para programadores. Além deles, a He:Labs, desenvolvedora de software e organizadora do evento StartupDev Rumble, nos ajudará esse ano. Nosso muito obrigado a vocês. :)
+Esse ano iniciamos com patrocinadores de peso: a [Caelum](http://www.caelum.com.br) apoiando como sempre a disseminação de conhecimento e a [Casa de Código](http://www.casadocodigo.com.br/), nova editora de livros feitos por programadores para programadores. Além deles, a [He:Labs](http://www.helabs.com.br/), desenvolvedora de software e organizadora do evento StartupDev Rumble, nos ajudará esse ano. Nosso muito obrigado a vocês. :)
 
 Como a idéia do evento é ser melhor que o ano passado, estaremos cobrando uma taxa simbólica de _R$ 35,00_ para cobrir os custos e tentar fazer camisas para todos. :) As inscrições serão abertas em breve, estamos apenas com uma pendência de nosso gateway de pagamentos.
 
