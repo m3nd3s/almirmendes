@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Rock'n Rails 2012"
+date: 2012-09-13 12:49
+comments: true
+categories: ruby, rails
+---
+
+É isso aí galera, o Rock'n Rails 2012 já está com data e local defindos, como no ano passado o evento será realizado na [Universidade Vila Velha](http://www.uvv.br) no dia **20 de outubro de 2012**.
+
+[{% img right /images/logo-rockandrails.jpg %}](http://www.rockandrails.com.br)
+
+Nós criamos o Rock'n Rails na tentativa de juntar desenvolvedores, curiosos, empresários, todo tipo de pessoa interessada na linguagem para conversarem, aprenderem e principalmente fazerem um networking bacana entre profissionais e empresários afim de fomentar o movimento Ruby/Rails em terras capixabas. 
+
+Um ano se passou desde a nossa [primeira edição](http://www.flickr.com/photos/68470895@N07) e ficamos orgulhosos com o resultado: conhecemos inúmeras pessoas, expandimos nosso conhecimento e como resultado e consequência disto nós pretendemos fazer um evento ainda melhor este ano.
+
+Como no ano passado o evento está sendo organizado pela equipe da [Giran Ecommerce Solutions](http://www.giran.com.br), o Rock'n Rails não tem fins lucrativos: todos os recursos obtidos junto aos parceiros, patrocinadores e incrições será revertido para cobertura do evento e compra de brindes para sorteio ao final do evento.
+
+Nossa grade de palestras está quase fechada mas já com figuras de peso confirmadas como Bruno Oliveira(@abstractj) da Red Hat e Tiago Motta da Globo.com, Ricardo Valeriano da Caelum e Maxuell Leonardo da Giran. Estamos confirmando mais gente e esperando fechar tudo nos próximos dias.
+
+Esse ano iniciamos com patrocinadores de peso: a Caelum apoiando como sempre a disseminação de conhecimento e a Casa de Código, nova editora de livros feitos por programadores para programadores. Além deles, a He:Labs, desenvolvedora de software e organizadora do evento StartupDev Rumble, nos ajudará esse ano. Nosso muito obrigado a vocês. :)
+
+Como a idéia do evento é ser melhor que o ano passado, estaremos cobrando uma taxa simbólica de _R$ 35,00_ para cobrir os custos e tentar fazer camisas para todos. :) As inscrições serão abertas em breve, estamos apenas com uma pendência de nosso gateway de pagamentos.
+
+No mais, sintam-se a vontade para ajudar e sugerir, pois movimento e comunidade só se faz com a ajuda e contribuição de todos. Os contatos e mais informações estão disponívels no site do [Rock'n Rails](http://www.rockandrails.com.br), fique a vontade para nos contactar.
+
+Nos vemos no dia **20 de outubro** `\o/`!
