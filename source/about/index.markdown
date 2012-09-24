@@ -11,7 +11,7 @@ Meu nome é Almir 'm3nd3s' de Araújo, sou de Serra - Espírito Santo.
 
 Sou desenvolvedor de aplicacões Web, mas já trabalhei como analista de redes/sistemas em GNU/Linux e soluções Open Source.
 
-Hoje trabalho como Desenvolvedor na [Giran](http://www.giran.com.br), uma empresa especializada em consultoria e treinamentos em java, php e ruby on rails. Formada por gente nova e competente que trabalha de forma ágil e divertida, aqui nós acreditamos e principalmente, aprendemos que os resultados são gerados pelas pessoas, e não apenas por processos.
+Hoje trabalho como Desenvolvedor na [Giran](http://www.giran.com.br), uma empresa especializada em consultoria e desenvolvimento de ecommerce. Formada por gente nova e competente que trabalha de forma ágil e divertida, aqui nós acreditamos e principalmente, aprendemos que os resultados são gerados pelas pessoas, e não apenas por processos.
 
 Membro da comunidade Software Livre local, atuando ativamente em comunidades como PHP-ES , Linux-ES (acho que extinta) e TUX-ES na organização e participação de eventos, palestras, workshops e claro, batepapos e eventos não técnicos (será?).
 
