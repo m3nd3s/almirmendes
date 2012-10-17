@@ -79,7 +79,7 @@ Estas foram as ferramentas que mais utilizo, agora vamos aos meu comentários so
 
 Quando comecei a usar o GTD eu tive um sério problema. O método pede que você páre, literalmente, durante um ou dois dias para organizar sua vida antes de começar a usar os métodos do GTD, ou seja, organizar tudo que você fez até hoje nos moldes do GTD. Mas convenhamos, se eu tivesse um ou dois dias para parar provavelmente eu não estaria tão desorganizado. 
 
-O que fiz? Uma fachina de porco `:)`, joguei a sujeira para deibaxo do tapete e comecei aos poucos aplicando os métodos que eu conseguisse. Conforme falei usar o GTD é uma questão de mudança de hábito, e decidi começar pelas que eu imaginava serem mais fácil, no meu caso a *Coleta*.
+O que fiz? Uma faxina de porco `:)`, joguei a sujeira para deibaxo do tapete e comecei aos poucos aplicando os métodos que eu conseguisse. Conforme falei usar o GTD é uma questão de mudança de hábito, e decidi começar pelas que eu imaginava serem mais fácil, no meu caso a *Coleta*.
 
 ### Coleta
 
