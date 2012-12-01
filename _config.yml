@@ -49,7 +49,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
-blog_index_asides: [custom/asides/about.html, asides/github.html, asides/twitter.html, asides/friends.html]
+blog_index_asides: [asides/github.html, asides/twitter.html, asides/friends.html]
 post_asides: [asides/recent_posts.html, asides/github.html ]
 #page_asides: [custom/asides/about.html, asides/github.html]
 
@@ -65,7 +65,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: m3nd3s
-twitter_tweet_count: 4
+twitter_tweet_count: 1
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
