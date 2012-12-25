@@ -1,0 +1,5 @@
+Olá amigo!
+
+Este projeto trata-se dos fontes do meu website atualmente disponível em [www.almirmendes.com](http://www.almirmendes.com).
+
+O site foi criado em cima do [Octopress](http://www.octopress.org/), uma ótima ferramenta para blogging.
