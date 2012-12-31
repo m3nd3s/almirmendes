@@ -27,7 +27,7 @@ Instalação
 
 Por se tratar de uma gem a instalação é muito simples e segue o padrão já conhecido:
 
-{% codeblock Instalando a gem capistrano direto no sistema lang:shell %}
+{% codeblock Instalando a gem capistrano direto no sistema lang:bash %}
   $ gem install capistrano
 {% endcodeblock %}
 

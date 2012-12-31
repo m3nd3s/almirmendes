@@ -1,0 +1,35 @@
+---
+layout: post
+title: "E lá se vai 2012, que venha 2013!"
+date: 2012-12-30 11:10
+comments: true
+categories: retrospectiva 2012
+---
+
+Comentei com alguns amigos que escreveria um blog post de retrospectiva do ano de 2012, isso já tem algumas semanas, mas fui enrolando até que o [@jvrmaia](http://twitter.com/jvrmaia) publicou o [seu blog post retrospectivo](http://blog.joaovrmaia.com/blog/2012/12/29/morre-deabo-de-2012-e-vem-ni-mim-2013/), então percebi que tinha que publicar logo senão ficaria feio pra mim `:-D`. Então, vamos lá!
+
+O ano de 2012 foi um ano irado! Simplesmente o ano de muito trabalho e diversas conquistas. Começarei pela que considero a mais marcante deste ano e provavelmente da minha vida: a conquista da minha graduação. Em julho eu terminei minha graduação em Ciência da Computação, [foi uma luta e tanto](blog/2012/07/08/mission-accomplished/). Depois de anos na rotina _trabalho -> faculdade -> casa -> repete tudo_ eu finalmente posso escolher o que fazer após o expediente de trabalho `:)`.
+
+Também conquistei a liberdade automotiva :), está sendo uma experiência e tanto. É muito boa a sensação de ir aonde quer na hora que quer e escolher quando voltar.
+
+Vários amigos meus começaram ou já faziam algum tipo de atividade física, alguns com bikes, outros com simples caminhadas e/ou frequentando academias. Então eu e minha digníssima esposa decidimos deixar o banco dos reservas (sedentários) e partimos para a competição (fazer alguma atividade). Ainda estamos, como eu diria... em processo de adaptação :).
+
+  Outra _parada_ muito bacana foi eu ter finalmente comprado o meu videogame. Para muitos isso pode ser algo irrelevante né? Afinal, um videogame é algo banal. Deixa eu contextualizar isso: Sempre fui viciado em jogos de videogame, houve uma época que eu estava todos os dias na locadora gastando o pouco dinheiro que eu tinha para jogar. Minha paixão sempre foram os jogos de luta, parte desta história você pode [ver aqui](blog/2010/01/24/pkgbuild-do-advancemame/). Mas nunca tive dinheiro para comprar um videogame, e quando tive oportunidade financeira para comprar, adquirir um videogame nunca atingira o topo da minha lista de prioridades. Mas este ano consegui realizar meu sonho, coincidentemente ao final da minha faculdade.
+
+Profissionalmente foi um ano de muita luta, carrego a posição e líder técnico do time de desenvolvimento do [Adena](http://www.adena.com.br), posso dizer que é um aprendizado diário e contínuo, muitas vezes aprendo mais do que ensinando o que pessoalmente me deixa muito motivado. Nesse sentido 2013 tende a ser um ano muito promissor, com o término da faculdade posso começar finalmente a estudar o que me interessa sem a preocupação de ter uma prova ao final. É o momento de aprofundar em metodologias, técnicas, padrões e tudo mais.
+
+Foram várias as conquistas também, algumas delas você pode [ver aqui](http://blog.giran.com.br/).
+
+Sempre participei de grupos e comunidades de software livre, organizando eventos e micro-eventos. Entretanto não tive oportunidade e tempo para ajudar em algum projeto de software. Penso que todo desenvolvedor deveria participar do desenvolvimento de algum software livre, os benefícios de estar em uma comunidade, trocar experiências, ter seu código _auditado_ por uma comunidade e o fato de se trabalhar com pessoas que você não conhece, culturas diferentes, pessoas de outros países, etc há de ser algo de muito valor.
+
+Comecei por baixo, aos poucos reportando algumas issues, corrigindo outras, refatorando algumas implementações. Mas acho que é chegada a hora de participar firmemente de algum projeto, ainda não achei um, na verdade nem fiz pesquisas. Mas como tenho desenvolvido em ruby tende a ser algo em ruby mesmo.
+
+Continuarei ajudando em eventos e mantendo minha participação nos grupos, mas em 2013, assim como foi ao final de 2012, vou me afastar da organização e participar apenas com palestras. Portanto se você que me lê conhecer ou estiver organizando algum evento de desenvolvimento ou software livre fique a vontade para fazer contato, ficarei feliz em ajudar no que for possível `;)`.
+
+Pretendo continuar o [#Horaextra](http://horaextra.org/) como fizemos neste último semestre de 2012. O \#horaextra não foi criado por nós, como pode ver no link foi criado no Rio de Janeiro. Eu fiquei sabendo dele através do [@henriquebastos](https://twitter.com/henriquebastos) quando de sua vinda aqui às terras capixabas. Desde então tenho seguido mais ou menos o que eles fazem. Mensalmente eu, [@vixlima](https://twitter.com/vixlima), [@jvrmaia](https://twitter.com/jvrmaia), [@ra_pha](https://twitter.com/ra_pha), alguns membros mais do [@_tuxes](https://twitter.com/_tuxes) e alguns amigos nos reunimos para comer, beber e conversar, geralmente sobre tecnologia.
+
+Foram ótimos encontros!
+
+Agradeço pelo ano de 2012 e tudo que ele foi e desejo um ano de 2013 repleto de conquistas e muito trabalho para todos nós `\o/`.
+
+
