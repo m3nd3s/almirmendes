@@ -6,7 +6,7 @@ comments: true
 categories: environment [environment, seven, items, workspace, work, developer]
 ---
 
-Em 20 de janeiro de 2011, inspirado por um post da Loiane, eu publiquei um post sobre as ferramentas que utilizo em meu ambiente de trabalho. Com o passar do tempo é comum que façamos mudanças em nosso ambiente visando melhorar e agilizar nosso processo de trabalho. Então resolvi dar uma atualizada no post para mostrar como e o que estou usando agora.
+Em 20 de janeiro de 2011, inspirado por um [post](http://jeveaux.com/2011/meu-ambiente-de-trabalho-em-7-itens/) do [Jeveaux](http://jeveaux.com/), eu publiquei um post sobre as [ferramentas que utilizo em meu ambiente de trabalho](blog/2011/01/20/meu-ambiente-de-trabalho-em-7-itens/). Com o passar do tempo é comum que façamos mudanças em nosso ambiente visando melhorar e agilizar nosso processo de trabalho. Então resolvi dar uma atualizada no post para mostrar como e o que estou usando agora.
 
 ## 1. Navegador
 
