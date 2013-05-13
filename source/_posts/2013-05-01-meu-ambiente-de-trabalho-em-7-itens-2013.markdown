@@ -37,7 +37,9 @@ Meu interesse nele surgiu pela vontade de reduzir ainda mais o uso de cliques pa
 
 ## 4. Git e Github
 
-Simplesmente indispensável. Todos os produtos que desenvolvemos na Giran são versionados pelo Git, nós utilizamos também o Github que parafraseando um [amigo](https://twitter.com/rodolfospalenza), que até hoje não postou nada no blog dele: "Todo desenvolvedor deveria conhecer o Github e ter uma conta lá".
+Simplesmente indispensável. Todos os produtos que desenvolvemos na [Giran](http://www.giran.com.br/) são versionados pelo [Git](http://git-scm.com/book), nós utilizamos também o [Github](http://www.github.com) que parafraseando um [amigo](https://twitter.com/rodolfospalenza), que até hoje não postou nada no blog dele:
+
+> Todo desenvolvedor deveria conhecer o Github e ter uma conta.
 
 ## 5. Terminal
 
